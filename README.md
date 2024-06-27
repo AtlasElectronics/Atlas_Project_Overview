@@ -20,12 +20,12 @@ The key feature of the power brick is the ability to safely balance hundreds of 
 
 ## The Crusader
 ### Status: Finished
-The Crusader is the name given to an electric drift trike (https://en.wikipedia.org/wiki/Drift_trike) that was created to act as a technology demonstrator for AES power brick. 
+The Crusader is the name given to an electric drift trike ([Drift Trike](https://en.wikipedia.org/wiki/Drift_trike)) that was created to act as a technology demonstrator for AES power brick. 
 ![](pictures/Crusader/Crusader_unpainted.jpg)
 This trike demonstrates the capabilities of the power brick by utilizing a unique motor and drive system for such a small vehicle. The Crusader uses a 220V Allen-bradley AA08NSF1 variable frequency drive and a 2HP 3 phase induction motor for the power train. This drive system gives the trike a surprisingly strong acceleration with the ability to accelerate from 0 to 20mph in 3 seconds and a top speed of 29mph. The large induction motor gives extreme low end torque, allowing for up to 300Lb drivers, the ability to drive up steep inclines of 60 percent grade, and the ability to tow non-motorized drift trikes. The wiring harness utilizes Deutsch connectors and silicone insulated wires giving the wiring harness great water and heat resistance. The frame was constructed from 1 inch square tube steel and cylindrical galvanized steel inserts were welded into each bolt hole to prevent internal rusting. 
 ![](pictures/Crusader/welded_inserts.jpg)
 ![](pictures/Crusader/Crusader_painted.jpg)
 The frame was also built with modularity as a high priority. The trike disassembles into 3 main parts that can be quickly bolted together, the axle and bearings, the seat and motor, and the front steering column. The Crusader also acts as a template for normal passenger electric vehicle because the same battery system, motor, and variable frequency drive can just be made larger to accommodate a larger vehicle. A 25 to 50Hp induction motor and drive system would be more than sufficient for a full size passenger vehicle. 
 
-### powertrain video
+### [powertrain video](https://youtu.be/9hJx9UgECE4?si=TxDa9L8RC-OlGwj_)
 [![](pictures/Crusader/mq2.webp)](https://youtu.be/9hJx9UgECE4?si=TxDa9L8RC-OlGwj_)
